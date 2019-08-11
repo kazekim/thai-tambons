@@ -1,6 +1,6 @@
 ---
 en:
-  changwats:
+  provinces:
   - pid: '10'
     name: Bangkok
   - pid: '11'
