@@ -1,6 +1,6 @@
 ---
 th:
-  amphoes:
+  districts:
   - pid: '1001'
     name: "พระนคร"
     changwat_pid: '10'
