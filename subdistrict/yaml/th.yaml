@@ -1,6 +1,6 @@
 ---
 th:
-  tambons:
+  sub_districts:
   - pid: '100101'
     name: "พระบรมมหาราชวัง"
     latitude: 13.751
